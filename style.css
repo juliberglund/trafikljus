@@ -1,5 +1,7 @@
 * {
   margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
 }
 .body {
   background-color: rgba(128, 128, 128, 0.675);
@@ -20,7 +22,7 @@
 }
 
 #r_inside {
-  width: 150px;
+  width: 140px;
   background-color: rgba(236, 244, 244, 0.517);
   margin-top: 55%;
   height: 40%;
